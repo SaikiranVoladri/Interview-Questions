@@ -1,0 +1,10 @@
+21	What are forward refs?
+22	Which is preferred option with in callback refs and findDOMNode()?
+23	Why are String Refs legacy?
+24	What is Virtual DOM?
+25	How Virtual DOM works?
+26	What is the difference between Shadow DOM and Virtual DOM?
+27	What is React Fiber?
+28	What is the main goal of React Fiber?
+29	What are controlled components?
+30	What are uncontrolled components?

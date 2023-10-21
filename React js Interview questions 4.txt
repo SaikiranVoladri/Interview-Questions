@@ -1,0 +1,10 @@
+31	What is the difference between createElement and cloneElement?
+32	What is Lifting State Up in React?
+33	What are the different phases of component lifecycle?
+34	What are the lifecycle methods of React?
+35	What are Higher-Order components?
+36	How to create props proxy for HOC component?
+37	What is context?
+38	What is children prop?
+39	How to write comments in React?
+40	What is the purpose of using super constructor with props argument?
